@@ -4,3 +4,4 @@ streamlit
 crewai[tools]
 bokeh
 streamlit_bokeh_events
+google-auth
