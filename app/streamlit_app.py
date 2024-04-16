@@ -10,4 +10,4 @@ from streamlit_bokeh_events import streamlit_bokeh_events
 
 st.image('images/crew_logo.png')
 
-st.text
+st.text('This is some text')
